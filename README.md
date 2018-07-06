@@ -1,5 +1,5 @@
-# 100-Days-Of-ML-Code-
-This repository contains my codes for the challenge 100DaysOfMLCode given by Siraj Raval.
+# 100-Days-Of-ML-Code
+This repository contains my progress and codes for the challenge 100DaysOfMLCode given by Siraj Raval.
 
 ## Day 0 : July 6, 2018
 

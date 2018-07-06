@@ -7,4 +7,4 @@ This repository contains my codes for the challenge 100DaysOfMLCode given by Sir
 
 **Thoughts** : Hope this will be exciting. The course is really good and it contain lots of good contents . It is good for a beginner .
 
-**Link of work**: [Introduction to Data Science with Python] (https://www.coursera.org/learn/python-data-analysis/home/week/1)
+**Link of work**: [Introduction to Data Science with Python](https://www.coursera.org/learn/python-data-analysis/home/week/1)

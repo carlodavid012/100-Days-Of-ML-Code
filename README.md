@@ -1,10 +1,19 @@
 # 100-Days-Of-ML-Code
-This repository contains my progress and codes for the challenge 100DaysOfMLCode given by Siraj Raval.
+This repository contains my progress for the challenge 100DaysOfMLCode given by Siraj Raval. 100 Days of ML Code is a committment to better your understanding of this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning for 100 days.
 
 ## Day 0 : July 6, 2018
 
-**Today's Progress** : I have setup all the things I needed to complete this challenge. I also completed the first part of Introduction to Data Science in Python on Coursera to learn python fundamentals and use advanced Python features, including lambdas, list comprehensions and the numpy library.
+**Today's Progress** : I have setup all the things I needed to complete this challenge. I completed the first part of Introduction to Data Science in Python on Coursera to learn python fundamentals and use advanced Python features, including lambdas, list comprehensions and the numpy library.
 
 **Thoughts** : Hope this will be exciting. The course is really good and it contain lots of good contents. It is good for a beginner.
 
 **Link of work**: [Introduction to Data Science with Python](https://www.coursera.org/learn/python-data-analysis/home/week/1)
+
+## Day 1 : July 7, 2018
+
+**Today's Progress** : Finished the first part of the Machine Learning course on coursera by Andrew Ng up to Linear Regression with One Variable.
+
+**Thoughts** : I learned the application of Linear Regression with one variable to housing price prediction, the notion of a cost function, and the gradient descent method for learning.
+
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+

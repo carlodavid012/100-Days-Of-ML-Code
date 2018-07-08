@@ -17,3 +17,11 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 
+## Day 2 : July 8, 2018
+
+**Today's Progress** : Since Linear Algebra is necessary on learning Machine Learning, I review on basic linear algebra concepts. I finished the Linear Algebra Review on machine learning course on Coursera. 
+
+**Thoughts** : I learned about matrices and vectors, addition and scalar multiplication, matrix-vector and matrix-matrix multiplication, matrix multiplication properties, matrix inverse and matrix transpose operation.
+
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+

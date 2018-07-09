@@ -31,5 +31,5 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : The concepts are really good. The Math is explained in a practical way.
 
-**Link of work**: [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/Day%203%20-%20linear%20regression%20using%20gradient%20descent/gradient_descent.py) | [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk)
 

@@ -25,3 +25,11 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 
+## Day 3 : July 9, 2018
+
+**Today's Progress** : Learned linear regression using gradient descent and its equations.
+
+**Thoughts** : The concepts are really good. The Math is explained in a practical way.
+
+**Link of work**: [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk)
+

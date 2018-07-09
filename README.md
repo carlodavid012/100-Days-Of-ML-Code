@@ -7,7 +7,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : Hope this will be exciting. The course is really good and it contain lots of good contents. It is good for a beginner.
 
-**Link of work**: [Introduction to Data Science with Python](https://www.coursera.org/learn/python-data-analysis/home/week/1)
+**Link of work**: [Introduction to Data Science with Python](https://www.coursera.org/learn/python-data-analysis)
 
 ## Day 1 : July 7, 2018
 

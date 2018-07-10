@@ -35,7 +35,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 ## Day 4 : July 10, 2018
 
-**Today's Progress** : Learned about Linear Regression with multiple variables. I also learned about Polynomial Regression, Feature Scaling, Normal Equation and best practices in implementing linear regression. I also learned how to use Octave and did some basic operations, plotting data, control statements and vectorization.
+**Today's Progress** : Learned about Linear Regression with multiple variables, Polynomial Regression, Feature Scaling, Normal Equation and best practices in implementing linear regression. I  also learned using Octave and did some basic operations, plotting data, control statements and vectorization.
 
 **Thoughts** : Some concepts are quite difficult but I'm able to get it. 
 

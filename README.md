@@ -37,7 +37,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Today's Progress** : Learned about Linear Regression with multiple variables, Polynomial Regression, Feature Scaling, Normal Equation and best practices in implementing linear regression. I  also learned using Octave and did some basic operations, plotting data, control statements and vectorization.
 
-**Thoughts** : Some concepts are quite difficult but I'm able to get it. 
+**Thoughts** : Some concepts are quite difficult at first but I'm able to understand it.
 
 **Link of work**: [Machine Learning Coursera Week 2](https://www.coursera.org/learn/machine-learning/)
 

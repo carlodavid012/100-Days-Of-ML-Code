@@ -15,7 +15,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : I learned the application of Linear Regression with one variable to housing price prediction, the notion of a cost function, and the gradient descent method for learning.
 
-**Link of work**: [Machine Learning Coursera Week 1](https://www.coursera.org/learn/machine-learning/)
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 
 ## Day 2 : July 8, 2018
 
@@ -23,7 +23,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : I learned about matrices and vectors, addition and scalar multiplication, matrix-vector and matrix-matrix multiplication, matrix multiplication properties, matrix inverse and matrix transpose operation.
 
-**Link of work**: [Machine Learning Coursera Week 1](https://www.coursera.org/learn/machine-learning/)
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 
 ## Day 3 : July 9, 2018
 
@@ -39,5 +39,13 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : Some concepts are quite difficult at first but I'm able to understand it. I learned how linear regression can be extended to accommodate multiple input features and best practices for implementing linear regression.
 
-**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/commit/c43391cb2ec8128f548e15dc102357c25b9645c7) | [Machine Learning Coursera Week 2](https://www.coursera.org/learn/machine-learning/)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/commit/c43391cb2ec8128f548e15dc102357c25b9645c7) | [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+
+## Day 5 : July 11, 2018
+
+**Today's Progress** : Learned about Logistic Regression for classification. I also learned about the notion of classification, the cost function for logistic regression, and the application of logistic regression to multi-class classification.
+
+**Thoughts** : There's a lot of new concepts I learned in this topic. One of it is solving the problem of overfitting using regularization. 
+
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 

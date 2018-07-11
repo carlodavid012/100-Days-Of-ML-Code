@@ -15,7 +15,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : I learned the application of Linear Regression with one variable to housing price prediction, the notion of a cost function, and the gradient descent method for learning.
 
-**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+**Link of work**: [Machine Learning Coursera Week 1](https://www.coursera.org/learn/machine-learning/)
 
 ## Day 2 : July 8, 2018
 
@@ -23,7 +23,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : I learned about matrices and vectors, addition and scalar multiplication, matrix-vector and matrix-matrix multiplication, matrix multiplication properties, matrix inverse and matrix transpose operation.
 
-**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+**Link of work**: [Machine Learning Coursera Week 1](https://www.coursera.org/learn/machine-learning/)
 
 ## Day 3 : July 9, 2018
 
@@ -31,5 +31,13 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : The concepts are really good. The Math is explained in a practical way.
 
-**Link of work**: [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/Day%203%20-%20linear%20regression%20using%20gradient%20descent/gradient_descent.py) | [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk)
+
+## Day 4 : July 10, 2018
+
+**Today's Progress** : Learned about Linear Regression with multiple variables, Polynomial Regression, Feature Scaling, and Normal Equation. I  also learned using Octave and did some basic operations, plotting data, control statements and vectorization.
+
+**Thoughts** : Some concepts are quite difficult at first but I'm able to understand it. I learned how linear regression can be extended to accommodate multiple input features and best practices for implementing linear regression.
+
+**Link of work**: [Machine Learning Coursera Week 2](https://www.coursera.org/learn/machine-learning/)
 

@@ -35,9 +35,9 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 ## Day 4 : July 10, 2018
 
-**Today's Progress** : Learned about Linear Regression with multiple variables, Polynomial Regression, Feature Scaling, and Normal Equation. I  also learned using Octave and did some basic operations, plotting data, control statements and vectorization.
+**Today's Progress** : Learned about Linear Regression with multiple variables, Polynomial Regression, Feature Scaling, and Normal Equation. I  also learned using Octave and did some basic operations, plotting data, control statements and vectorization and finished the first programming assignment.
 
 **Thoughts** : Some concepts are quite difficult at first but I'm able to understand it. I learned how linear regression can be extended to accommodate multiple input features and best practices for implementing linear regression.
 
-**Link of work**: [Machine Learning Coursera Week 2](https://www.coursera.org/learn/machine-learning/)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/commit/c43391cb2ec8128f548e15dc102357c25b9645c7) | [Machine Learning Coursera Week 2](https://www.coursera.org/learn/machine-learning/)
 

@@ -49,3 +49,11 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 
+## Day 6 : July 12, 2018
+
+**Today's Progress** : Watched the Logistic Regression video on youtube by Siraj. I learned about logistic regression using Newton's method for optimization.
+
+**Thoughts** : There's a lot of new terms that I encountered so I need to review them. One of the things I learned is Newton's method usually converges faster than gradient descent when maximizing logistic regression log likelihood.
+
+**Link of work**: [Logistic Regression by Siraj](https://www.youtube.com/watch?v=D8alok2P468&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=4)
+

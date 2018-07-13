@@ -57,3 +57,11 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Logistic Regression by Siraj](https://www.youtube.com/watch?v=D8alok2P468&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=4)
 
+## Day 7 : July 13, 2018
+
+**Today's Progress** : Finished the programming assignment for Logistic Regression in the Machine Learning Course on Coursera.
+
+**Thoughts** : The assignment is challenging and difficult for me because I need to write the solution using Octave. The programming exercise tutorials and discussion forums of the course helped me in order to finish it.
+
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/commit/47b70f0fa40c907ff413193013ff0537035663c5)
+

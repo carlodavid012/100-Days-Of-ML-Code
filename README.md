@@ -65,3 +65,30 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/commit/47b70f0fa40c907ff413193013ff0537035663c5)
 
+## Day 8 : July 14, 2018
+
+**Today's Progress** : 
+
+**Thoughts** : 
+
+**Link of work**: [How do Neural Networks work](https://www.youtube.com/watch?v=r9vQhRyrT1M) | [How do Neural Networks Learn](https://www.youtube.com/watch?v=KlKClvoHHoI) | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+## Day 9 : July 15, 2018
+
+**Today's Progress** : 
+
+**Thoughts** : 
+
+**Link of work**: [Neural Networks in Python Part 1](https://iamtrask.github.io/2015/07/12/basic-python-network/) | [Neural Networks in Python Part 2](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+
+## Day 10 : July 16, 2018
+
+**Today's Progress** : 
+
+**Thoughts** : 
+
+**Link of work**: [Neural Networks from Scratch](https://www.youtube.com/watch?v=vcZub77WvFA)
+
+
+
+

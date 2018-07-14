@@ -67,9 +67,9 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 ## Day 8 : July 14, 2018
 
-**Today's Progress** : 
+**Today's Progress** : Learned about how neural networks works and how it learns using backpropagation. 
 
-**Thoughts** : 
+**Thoughts** : Artificial Neural Networks are pretty amazing.
 
 **Link of work**: [How do Neural Networks work](https://www.youtube.com/watch?v=r9vQhRyrT1M) | [How do Neural Networks Learn](https://www.youtube.com/watch?v=KlKClvoHHoI) | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 

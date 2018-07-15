@@ -75,11 +75,11 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 ## Day 9 : July 15, 2018
 
-**Today's Progress** : 
+**Today's Progress** : I decided to go through Andrew Trask's A Neural Network in 11 lines of Python to really learn how every line worked, and it's been very helpful. 
 
-**Thoughts** : 
+**Thoughts** : I had to review some matrix math and look up some numpy function calls that he uses, but it was worth it.
 
-**Link of work**: [Neural Networks in Python Part 1](https://iamtrask.github.io/2015/07/12/basic-python-network/) | [Neural Networks in Python Part 2](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/commit/56a10f245fd9e9391f62dc84f151a4ac45168525) | [Neural Networks in Python Part 1](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 ## Day 10 : July 16, 2018
 

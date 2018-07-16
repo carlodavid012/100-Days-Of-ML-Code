@@ -83,9 +83,9 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 ## Day 10 : July 16, 2018
 
-**Today's Progress** : 
+**Today's Progress** : Watched a video from Siraj Raval on how to make a neural network in python from scratch.
 
-**Thoughts** : 
+**Thoughts** : Learned more about neural networks and see how it is implemented in python code.
 
 **Link of work**: [Neural Networks from Scratch](https://www.youtube.com/watch?v=vcZub77WvFA)
 

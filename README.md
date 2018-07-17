@@ -89,6 +89,14 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Neural Networks from Scratch](https://www.youtube.com/watch?v=vcZub77WvFA)
 
+## Day 11 : July 17, 2018
+
+**Today's Progress** : Continued my machine learning course on coursera which is on Neural Networks. 
+
+**Thoughts** : I learned more theory and intuition about neural networks.
+
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+
 
 
 

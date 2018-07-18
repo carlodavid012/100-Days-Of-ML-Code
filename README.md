@@ -97,6 +97,14 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
 
+## Day 12 : July 18, 2018
+
+**Today's Progress** : Learned more about using pandas, which is a Python library for data cleaning and processing. I also learned how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed. 
+
+**Thoughts** : Pandas is a very powerful library. It allows you to perform complicated operations efficiently with a small amount of code.
+
+**Link of work**: [Introduction to Data Science with Python](https://www.coursera.org/learn/python-data-analysis)
+
 
 
 

@@ -105,6 +105,16 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Introduction to Data Science with Python](https://www.coursera.org/learn/python-data-analysis)
 
+## Day 13 : July 19, 2018
+
+**Today's Progress** : Continued my Machine Learning course on coursera which is on Week 4 (Neural Networks).
+
+**Thoughts** : Learned about application of neural networks and its examples.
+
+**Link of work**: [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/)
+
+
+
 
 
 

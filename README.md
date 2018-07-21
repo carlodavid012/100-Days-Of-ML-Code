@@ -121,6 +121,13 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+## Day 15 : July 21, 2018
+
+**Today's Progress** : Continued learning linear algebra. Finished up to dot products.
+
+**Thoughts** : Having a good knowledge on linear algebra is important in learning ML.
+
+**Link of work**: [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
 

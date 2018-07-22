@@ -129,6 +129,14 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+## Day 16 : July 22, 2018
+
+**Today's Progress** : Today, I watched the Google machine learning crash course up to validation part.
+
+**Thoughts** : The course has a lot of good content and it is good for beginners.
+
+**Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
 
 
 

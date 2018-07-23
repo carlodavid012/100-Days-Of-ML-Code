@@ -135,7 +135,15 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Thoughts** : The course has a lot of good content and it is good for beginners.
 
-**Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+**Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+## Day 17 : July 23, 2018
+
+**Today's Progress** : Continued google machine learning crash course up to regularization.
+
+**Thoughts** : Learned about representation,good habits in selecting features, and feature crosses. I also learned about regularization which is used to avoid overfitting.
+
+**Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 
 

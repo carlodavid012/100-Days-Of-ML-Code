@@ -145,7 +145,13 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
+## Day 18 : July 24, 2018
 
+**Today's Progress** : Continued google machine learning crash course up to Introduction to neural nets. I learned about classification, confusion matrix and neural networks.
+
+**Thoughts** : Regularization is important in logistic regression modeling. Accuracy alone doesn't tell the full story when you're working in an imbalanced dataset.
+
+**Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 
 

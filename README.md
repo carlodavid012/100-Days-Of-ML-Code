@@ -153,5 +153,14 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
+## Day 19 : July 25, 2018
+
+**Today's Progress** : Continued google machine learning crash course up to multi-class neural nets.
+
+**Thoughts** : Learned about multi-class neural networks using softmax and one vs all.
+
+**Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+
 
 

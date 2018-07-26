@@ -161,6 +161,14 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
+## Day 20 : July 26, 2018
+
+**Today's Progress** : Learned about support vector machines which can be used for both classification and regression problems.
+
+**Thoughts** : Support vector machines are great when you have small dataset. The decision of which classifier to choose depends on the dataset and complexity of the problem.
+
+**Link of work**: [Support Vector Machines](https://www.youtube.com/watch?v=g8D5YL6cOSE&index=2&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
 
 
 

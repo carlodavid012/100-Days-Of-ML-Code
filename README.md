@@ -169,6 +169,15 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Support Vector Machines](https://www.youtube.com/watch?v=g8D5YL6cOSE&index=2&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
+## Day 21 : July 27, 2018
+
+**Today's Progress** : Learned about k-means clustering which is a type of unsupervised learning algorithm.
+
+**Thoughts** : K-means is usually used when your data is numeric because it doesn't work with categorical features. If you how many classes you want to find, use that as your value for k. If not, you can use the elbow method to find the number of clusters you want to find.
+
+**Link of work**: [K-Means Clustering](https://www.youtube.com/watch?v=9991JlKnFmk&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=6)
+
+
 
 
 

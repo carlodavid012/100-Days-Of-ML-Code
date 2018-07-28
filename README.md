@@ -177,7 +177,13 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [K-Means Clustering](https://www.youtube.com/watch?v=9991JlKnFmk&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=6)
 
+## Day 22 : July 28, 2018
 
+**Today's Progress** : Learned about convolutional neural networks which is used for image classification.
+
+**Thoughts** : CNN is quite difficult for me, there's a lot of maths and concepts that I encountered so I need to review them.
+
+**Link of work**: [Convolutional Neural Networks](https://www.youtube.com/watch?v=FTr3n7uBIuE&index=8&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
 
 

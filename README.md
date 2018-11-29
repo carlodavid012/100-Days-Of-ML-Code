@@ -1,5 +1,5 @@
 # 100-Days-Of-ML-Code
-This repository contains my progress for the challenge 100DaysOfMLCode given by Siraj Raval. 100 Days of ML Code is a committment to better your understanding of this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning for 100 days.
+This repository contains my progress for the challenge 100DaysOfMLCode, It is a committment to better my understanding of this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning and deep learning for 100 days.
 
 ## Day 0 : July 6, 2018
 
@@ -185,5 +185,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode given by 
 
 **Link of work**: [Convolutional Neural Networks](https://www.youtube.com/watch?v=FTr3n7uBIuE&index=8&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
+## Day 23 : November 29, 2018
 
-
+It's been a long time since my last update,I should have finished it by now :(
+So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. 

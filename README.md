@@ -189,3 +189,9 @@ This repository contains my progress for the challenge 100DaysOfMLCode, It is a 
 
 It's been a long time since my last update,I should have finished it by now :(
 So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. 
+
+## Day 24 : November 30, 2018
+
+**Today's Progress** : Back at it again! Today, I review some concepts of neural networks and study some basics of pytorch and create a simple neural network using pytorch from scratch.
+
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/intro_to_neural_nets.ipynb)

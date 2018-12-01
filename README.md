@@ -1,5 +1,12 @@
-# 100-Days-Of-ML-Code
+
+
+<p align="center">
+  <img width="550" height="400" src="https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/100-days-of-code-challenge-accepted.jpg">
+</p>
+
 This repository contains my progress for the challenge 100DaysOfMLCode, It is a committment to better my understanding of this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning and deep learning for 100 days.
+
+
 
 ## Day 0 : July 6, 2018
 

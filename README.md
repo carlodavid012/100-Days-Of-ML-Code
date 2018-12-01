@@ -202,3 +202,9 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 **Today's Progress** : Back at it again! Today, I review some concepts of neural networks and study some basics of pytorch and create a simple neural network using pytorch from scratch.
 
 **Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/intro_to_neural_nets.ipynb)
+
+## Day 25 : December 1, 2018
+
+**Today's Progress** : Today, I  build a neural network that can predict the digit in the image using the MNIST dataset. We can build one of these deep networks using only weight matrices as I did in the previous notebook, but in general it's very cumbersome and difficult to implement. PyTorch has a nice module nn that provides a nice way to efficiently build large neural networks.
+
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/neural_networks.ipynb)

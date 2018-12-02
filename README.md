@@ -208,3 +208,10 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 **Today's Progress** : Today, I  build a neural network that can predict the digit in the image using the MNIST dataset. We can build one of these deep networks using only weight matrices as I did in the previous notebook, but in general it's very cumbersome and difficult to implement. PyTorch has a nice module nn that provides a nice way to efficiently build large neural networks.
 
 **Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/neural_networks.ipynb)
+
+## Day 26 : December 2, 2018
+
+**Today's Progress** : I continued the notebook on classifying digits using MNIST dataset. So far, i've been using softmax activation function but in general any function can be used as activation function, but it must be non linear, here are some examples of activation function: sigmoid, Tanh(hyperbolic tangent) and ReLU (rectified linear unit). In practice, ReLU is usually used as activation function in hidden layers.
+
+
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/neural_networks.ipynb)

@@ -195,7 +195,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode, It is a 
 ## Day 23 : November 29, 2018
 
 It's been a long time since my last update,I should have finished it by now :(
-So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. 
+So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. You can also take the course for free [Intro to Deep Learnning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Day 24 : November 30, 2018
 
@@ -215,3 +215,9 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 
 **Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/neural_networks.ipynb)
+
+## Day 27 : December 3, 2018
+
+**Today's Progress** : I haven't write code today, but I watched some videos. To review, Loss function evaluates how bad our model performs or how far we are from the actual value. To minimize the loss, we do a process called gradient descent which is used to update our weights. For single layer networks, gradient descent is straightforward to implement. Training multilayer networks is done through backpropagation which is really just an application of the chain rule from calculus. Through the nn module, PyTorch provides losses such as the cross-entropy loss (nn.CrossEntropyLoss), it also provides a module, autograd, for automatically calculating the gradients of tensors
+
+**Link of course**: [Intro to Deep Learnning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)

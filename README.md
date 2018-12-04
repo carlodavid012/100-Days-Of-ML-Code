@@ -221,3 +221,10 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 **Today's Progress** : I haven't write code today, but I watched some videos. To review, Loss function evaluates how bad our model performs or how far we are from the actual value. To minimize the loss, we do a process called gradient descent which is used to update our weights. For single layer networks, gradient descent is straightforward to implement. Training multilayer networks is done through backpropagation which is really just an application of the chain rule from calculus. Through the nn module, PyTorch provides losses such as the cross-entropy loss (nn.CrossEntropyLoss), it also provides a module, autograd, for automatically calculating the gradients of tensors
 
 **Link of course**: [Intro to Deep Learnning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+
+
+## Day 28 : December 4, 2018
+
+**Today's Progress** : Today I read about regularization, it means we add a penalty on the different parameters of the model to reduce the freedom of the model. Hence, the model will be less likely to fit the noise of the training data and will improve the generalization abilities of the model. In other words, regularization discourages learning a more complex or flexible model, so as to avoid the risk of overfitting. There are two types of regularization, the L1 regularization adds a penalty equal to the sum of the absolute value of the coefficients, which will shrink some parameters to zero. The L2 regularization adds a penalty equal to the sum of the squared value of the coefficients, it will force the parameters to be relatively small, the bigger the penalization, the smaller (and the more robust) the coefficients are.
+
+**Link of article**: [Regularization](https://www.kdnuggets.com/2018/01/regularization-machine-learning.html)

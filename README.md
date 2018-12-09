@@ -228,3 +228,9 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 **Today's Progress** : Today I read about regularization, it means we add a penalty on the different parameters of the model to reduce the freedom of the model. Hence, the model will be less likely to fit the noise of the training data and will improve the generalization abilities of the model. In other words, regularization discourages learning a more complex or flexible model, so as to avoid the risk of overfitting. There are two types of regularization, the L1 regularization adds a penalty equal to the sum of the absolute value of the coefficients, which will shrink some parameters to zero. The L2 regularization adds a penalty equal to the sum of the squared value of the coefficients, it will force the parameters to be relatively small, the bigger the penalization, the smaller (and the more robust) the coefficients are.
 
 **Link of article**: [Regularization](https://www.kdnuggets.com/2018/01/regularization-machine-learning.html)
+
+## Day 29 : December 9, 2018
+
+**Today's Progress** : Today I learned about using nn.Sequential in pytorch which is a convenient way to build networks where a tensor is passed sequentially through operations, and transforms, which is used to preprocess our data such as Normalize, Rescale, RandomCrop and chain it together using Compose
+
+

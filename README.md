@@ -188,8 +188,7 @@ This repository contains my progress for the challenge 100DaysOfMLCode, It is a 
 
 **Today's Progress** : Learned about convolutional neural networks which is used for image classification.
 
-**Thoughts** : CNN is quite difficult for me, there's a lot of maths and concepts that I encountered so I need to review them.
-
+**Thoughts** : CNN is quite difficult for me, there's a lot concept that I need to review again.
 **Link of work**: [Convolutional Neural Networks](https://www.youtube.com/watch?v=FTr3n7uBIuE&index=8&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
 ## Day 23 : November 29, 2018
@@ -234,7 +233,7 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 ## Day 30 : March 2, 2019
 
-**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the Deep Learning Nanodegree, so I will continue write my progress on learning DL.
+**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the Deep Learning Nanodegree, so I will continue write my progress on learning DL. So today I just reviewed the previous lessons about saving and loading models in pytorch, how to load images for training using ImageFolder, and how to peform data augmentation to introduce randomness in input data using transforms.
 
 ## Day 31 : March 3, 2019
 

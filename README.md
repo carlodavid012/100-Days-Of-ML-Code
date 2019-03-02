@@ -233,7 +233,19 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 ## Day 30 : March 2, 2019
 
-**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), so I will continue write my progress on learning DL. So today I just reviewed the previous lessons about saving and loading models in pytorch, how to load images for training using ImageFolder, and how to peform data augmentation to introduce randomness in input data using transforms.
+**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), so I will continue write my progress on learning DL. There will be five projects that I will build in this course:
+
+● Predicting Bike-Sharing Patterns
+
+● Dog Breed Classifier
+
+● Generate TV Scripts
+
+● Generate Faces
+
+● Deploy a Sentiment Analysis Model
+
+I already finished the first project, so I decided to review the previous lessons. Today, I reviewed on saving and loading models in pytorch, how to load images for training using ImageFolder, and how to peform data augmentation to introduce randomness in input data using transforms.
 
 ## Day 31 : March 3, 2019
 

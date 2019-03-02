@@ -233,7 +233,7 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 ## Day 30 : March 2, 2019
 
-**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), so I will continue write my progress on learning DL. There will be five projects that I will build in this course:
+**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) last January 18, so I decided to continue write my progress on learning DL. There will be five projects that I will build in this course:
 
 ● Predicting Bike-Sharing Patterns
 

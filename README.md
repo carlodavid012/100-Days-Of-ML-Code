@@ -194,7 +194,6 @@ This repository contains my progress for the challenge 100DaysOfMLCode, It is a 
 
 ## Day 23 : November 29, 2018
 
-It's been a long time since my last update,I should have finished it by now :(
 So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. You can also take the course for free [Intro to Deep Learnning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Day 24 : November 30, 2018
@@ -232,5 +231,25 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 ## Day 29 : December 9, 2018
 
 **Today's Progress** : Today I learned about using nn.Sequential in pytorch which is a convenient way to build networks where a tensor is passed sequentially through operations, and transforms, which is used to preprocess our data such as Normalize, Rescale, RandomCrop and chain it together using Compose
+
+## Day 30 : March 2, 2019
+
+**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the Deep Learning Nanodegree, so I will continue write my progress on learning DL.
+
+## Day 31 : March 3, 2019
+
+**Today's Progress** : 
+
+## Day 32 : March 4, 2019
+
+**Today's Progress** : 
+
+## Day 33 : March 5, 2019
+
+**Today's Progress** : 
+
+## Day 34 : March 6, 2019
+
+**Today's Progress** : 
 
 

@@ -189,11 +189,14 @@ This repository contains my progress for the challenge 100DaysOfMLCode, It is a 
 **Today's Progress** : Learned about convolutional neural networks which is used for image classification.
 
 **Thoughts** : CNN is quite difficult for me, there's a lot concept that I need to review again.
+
 **Link of work**: [Convolutional Neural Networks](https://www.youtube.com/watch?v=FTr3n7uBIuE&index=8&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
 ## Day 23 : November 29, 2018
 
-So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. You can also take the course for free [Intro to Deep Learnning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+So, I decided to continue writing my progress on learning ML and DL. Luckily, I'm selected as one of the recipient of Udacity Pytorch Scholarship Challenge. Two weeks have already passed since the beginning of the challenge, from now on I will start writing my journey on learning Deep Learning. You can also take the course for free [Intro to Deep Learning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+
+**Link of work**: [Pytorch challenge Scholarship Notes](https://github.com/carlodavid012/pytorch_challenge)
 
 ## Day 24 : November 30, 2018
 
@@ -218,7 +221,7 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 **Today's Progress** : I haven't write code today, but I watched some videos. To review, Loss function evaluates how bad our model performs or how far we are from the actual value. To minimize the loss, we do a process called gradient descent which is used to update our weights. For single layer networks, gradient descent is straightforward to implement. Training multilayer networks is done through backpropagation which is really just an application of the chain rule from calculus. Through the nn module, PyTorch provides losses such as the cross-entropy loss (nn.CrossEntropyLoss), it also provides a module, autograd, for automatically calculating the gradients of tensors
 
-**Link of course**: [Intro to Deep Learnning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+**Link of course**: [Intro to Deep Learning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 
 ## Day 28 : December 4, 2018
@@ -235,7 +238,7 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 **Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) last January 18, so I decided to continue write my progress on learning DL. There will be five projects that I will build in this course:
 
-● Predicting Bike-Sharing Patterns
+~~● Predicting Bike-Sharing Patterns~~
 
 ● Dog Breed Classifier
 
@@ -246,6 +249,8 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 ● Deploy a Sentiment Analysis Model
 
 I already finished the first project, so I decided to review the previous lessons. Today, I reviewed on saving and loading models in pytorch, how to load images for training using ImageFolder, and how to peform data augmentation to introduce randomness in input data using transforms.
+
+**Link of work**: [Predicting Bike-Sharing Patterns](https://github.com/carlodavid012/Predicting-Bike-Sharing-Patterns)
 
 ## Day 31 : March 3, 2019
 

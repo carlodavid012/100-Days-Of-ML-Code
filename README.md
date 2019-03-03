@@ -249,8 +249,9 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 31 : March 3, 2019
 
-**Today's Progress** : Today I reviewed the lessons on transfer learning using PyTorch. Basically, transfer learning means using the learning of a previous model and use it on different task. I used a pretrained model called ResNet to classify dogs and cats images. 
+**Today's Progress** : Today I reviewed the lessons on transfer learning using PyTorch. Basically, transfer learning means using the learning of a previous model and reuse it on different task. I used a pretrained model called ResNet to classify dogs and cats images. 
 
+**Link of work**: [Transfer learning in pytorch](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/dogs_and_cats.ipynb)
 
 ## Day 32 : March 4, 2019
 

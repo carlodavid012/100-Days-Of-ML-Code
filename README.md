@@ -260,7 +260,7 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 32 : March 4, 2019
 
-**Today's Progress** : I just watched lectures on Convolutional Neural Networks today which is useful for image recognition because it captures spatial information, I also learned about local conectivity, filters and convolutional layers.
+**Today's Progress** : Today, I just watched lectures on Convolutional Neural Networks  which is useful for image recognition because it captures spatial information, I also learned about local conectivity, filters and convolutional layers.
 
 ## Day 33 : March 5, 2019
 

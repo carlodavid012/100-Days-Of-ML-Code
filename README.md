@@ -260,11 +260,11 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 32 : March 4, 2019
 
-**Today's Progress** : Today, I just watched lectures on Convolutional Neural Networks  which is useful for image recognition because it captures spatial information, I also learned about local conectivity, filters and convolutional layers.
+**Today's Progress** : Today, I just watched lectures on Convolutional Neural Networks  which is useful for image recognition because it captures spatial information, I also learned about applications of CNN, local conectivity, filters and convolutional layers.
 
 ## Day 33 : March 5, 2019
 
-**Today's Progress** : 
+**Today's Progress** : Today I review on classifying MNIST dataset using multilayer perceptron, I also learned about data normalization in PyTorch which is an important preprocessing step because it ensures that each image input comes from a standard distribution or one input image is the same as another image. 
 
 ## Day 34 : March 6, 2019
 

@@ -260,13 +260,25 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 32 : March 4, 2019
 
-**Today's Progress** : Today, I just watched lectures on Convolutional Neural Networks  which is useful for image recognition because it captures spatial information, I also learned about applications of CNN, local conectivity, filters and convolutional layers.
+**Today's Progress** : Today, I just watched lectures on Convolutional Neural Networks  which is useful for image recognition because it can capture spatial information, I also learned about applications of CNN such as image classification and text classification.
 
 ## Day 33 : March 5, 2019
 
 **Today's Progress** : Today I review on classifying MNIST dataset using multilayer perceptron, I also learned about data normalization in PyTorch which is an important preprocessing step because it ensures that each image input comes from a standard distribution, in other words, one input image is in the same range as another image. 
 
 ## Day 34 : March 6, 2019
+
+**Today's Progress** : The exact number of epochs to train a network that is accurate and not overfitting is hard to determine, one method to do it is to split the data into three sets, training set, validation set and test set. We use the training set to find the patterns and update the weights, and use validation set to check how the model generalizes in the validation set. After each epoch, we look at the training loss and validation loss, if the training loss is decreasing but the validation loss is increasing then the model is overfitting, and we need to stop training when the validation loss starts to increase.
+
+## Day 35 : March 7, 2019
+
+**Today's Progress** : 
+
+## Day 36 : March 8, 2019
+
+**Today's Progress** : 
+
+## Day 37 : March 9, 2019
 
 **Today's Progress** : 
 

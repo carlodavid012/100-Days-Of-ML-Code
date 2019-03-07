@@ -282,4 +282,8 @@ I already finished the first project, so I decided to review the previous lesson
 
 **Today's Progress** : 
 
+## Day 38 : March 10, 2019
+
+**Today's Progress** :
+
 

@@ -272,7 +272,9 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 35 : March 7, 2019
 
-**Today's Progress** : 
+**Today's Progress** : Today, I finished the exercise on training an Multilayer perceptron(MLP) to classify images from MNIST handwritten digit database.
+
+**Link of work**: [Multilayer Perceptron MNIST](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/mlp_mnist.ipynb)
 
 ## Day 36 : March 8, 2019
 

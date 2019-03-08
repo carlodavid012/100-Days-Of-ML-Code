@@ -278,7 +278,9 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 36 : March 8, 2019
 
-**Today's Progress** : 
+**Today's Progress** : I added a Validation set to the MLP Mnist code. We use validation set to check how our model generalizes during training, it also tells us when to stop training the model(when the validation loss stops decreasing, especially when the validation loss starts increasing and tra training loss is still decreasing).
+
+**Link of work**: [Multilayer Perceptron MNIST with Validation Set](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/mlp_mnist_with_validation%20(1).ipynb)
 
 ## Day 37 : March 9, 2019
 

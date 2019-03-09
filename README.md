@@ -280,11 +280,12 @@ I already finished the first project, so I decided to review the previous lesson
 
 **Today's Progress** : I added a Validation set to the MLP Mnist code. We use validation set to check how our model generalizes during training, it also tells us when to stop training the model(when the validation loss stops decreasing, especially when the validation loss starts increasing and tra training loss is still decreasing).
 
-**Link of work**: [Multilayer Perceptron MNIST with Validation Set](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/mlp_mnist_with_validation%20(1).ipynb)
+**Link of work**: [Multilayer Perceptron MNIST with Validation Set](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/mlp_mnist_with_validation%20.ipynb)
 
 ## Day 37 : March 9, 2019
 
-**Today's Progress** : 
+**Today's Progress** : Previously, I was using MLP to classifiy handwritten digits. But for complex image recognition problems, but its better to use Convolutional Neural networks. In MLP, we always use fully connected layers, so in a 28 x 28 pixels of hand written image, we already used over half million of parameters, so imagine if we have more complex images then we will need million of parameters. Another problem is that, we throw away the 2D information in an image when we flatten the matrix into a vector. CNN's can address these problems. First, we only used sparsely connected layers. Also it accepts matrix as inputs, so we don't throw away the 2D information in an image. This spatial information or knowledege of where the pixels are connected 
+in reference to each other is relevant in understanding the image.
 
 ## Day 38 : March 10, 2019
 

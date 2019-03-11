@@ -289,7 +289,7 @@ in reference to each other is relevant in understanding the image.
 
 ## Day 38 : March 10, 2019
 
-**Today's Progress** : Today, I learned about filters in CNN, these filters produce an output that shows edges of objects and different textures.I also learned about frequency in images, we have high frequency in an image when the intensity changes a lot, level of brightness changes quickly from one pixel to the next. We have low frequency when the level of brightness changes very slowly.
+**Today's Progress** : Today, I learned about filters in CNN, these filters produce an output that shows edges of objects and different textures.I also learned about frequency in images, we have high frequency in an image when the intensity changes a lot, level of brightness changes quickly from one pixel to the next. We have low frequency when the level of brightness changes very slowly. High frequency images corresponds to the edges of objects in an image, which can help us classify those objects.
 
 ## Day 39 : March 11, 2019
 

@@ -305,4 +305,6 @@ Then I learned about stride, which is just the amount or step size by which the 
 
 Another layer in CNN is the Pooling layer, which take convolutional layer as input. The purpose of pooling layer is to reduce the dimensionality of convolutional layer. There are two types of pooling layers: Maxpooling and Average pooling. Max pooling is often used because its better at noticing the most important features and edges of an image. 
 
+A convolutional layer + activation function, followed by a pooling layer, and a linear layer (to create a desired output size) make up the basic layers of a CNN.
+
 

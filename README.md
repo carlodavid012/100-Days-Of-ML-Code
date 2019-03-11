@@ -293,6 +293,6 @@ in reference to each other is relevant in understanding the image.
 
 ## Day 39 : March 11, 2019
 
-**Today's Progress** : I learned about high-pass filters, which is used to sharpen an image, and enhance high frequency part of an image. I also learned about convolution kernels,  which is just a matrix of numbers that modifies an image. Important note is that for edge detection, all elements must sum to 0 because this filter is computing the difference or change between its neighbor pixels. If these kernels did not add up to 0, it means it is postively or negatively weighted which will have the effect of brightening or darkening the entired filtered image.
+**Today's Progress** : I learned about high-pass filters, which is used to sharpen an image, and enhance high frequency part of an image. I also learned about convolution kernels,  which is just a matrix of numbers that modifies an image. Important note is that for edge detection, all elements must sum to 0 because this filter is computing the difference or change between its neighbor pixels. If these kernels did not add up to 0, it means it is postively or negatively weighted which will have the effect of brightening or darkening the entired filtered image. To apply this filter, an input image: F(x,y) is convolved with a kernel K, and convolution is represented by asterisk. `K * F(x,y) = output image` 
 
 

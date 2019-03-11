@@ -297,6 +297,12 @@ in reference to each other is relevant in understanding the image.
 
 ## Day 40: March 12, 2019
 
-**Today's Progress**: Today I learned about convolutional layers, where it can learned spatial information, and extract features and detect edges. It is produced by applying series of many convolutional kernels. Convolutional layers are locally connected as opposed to fully connected layers, and it has also weight sharing. I also learned about feature maps, which is just the output of the filtered image.
+**Today's Progress**: Today I learned about convolutional layers, where it can learned spatial information, and extract features and detect edges. It is produced by applying series of many convolutional kernels, in other words, it is just a stack of feature maps. Convolutional layers are locally connected as opposed to fully connected layers, and it has also weight sharing. The CNN structure is: Input image -> Convolutional Layer -> Pooling Layer -> Full connected layer -> Class prediction.
+
+I also learned about feature maps, which is just the output of the filtered image.
+
+Then I learned about stride, which is just the amount or step size by which the filter slides over the image, and padding which means adding zeros to give the filter more space to move across the image.
+
+Another layer in CNN is the Pooling layer, which take convolutional layer as input. The purpose of pooling layer is to reduce the dimensionality of convolutional layer. There are two types of pooling layers: Maxpooling and Average pooling. Max pooling is often used because its better at noticing the most important features and edges of an image. 
 
 

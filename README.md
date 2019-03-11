@@ -284,7 +284,7 @@ I already finished the first project, so I decided to review the previous lesson
 
 ## Day 37 : March 9, 2019
 
-**Today's Progress** : Previously, I was using MLP to classifiy handwritten digits. But for complex image recognition problems, but its better to use Convolutional Neural networks. In MLP, we always use fully connected layers, so in a 28 x 28 pixels of hand written image, we already used over half million of parameters, so imagine if we have more complex images then we will need million of parameters. Another problem is that, we throw away the 2D information in an image when we flatten the matrix into a vector. CNN's can address these problems. First, we only used sparsely connected layers. Also it accepts matrix as inputs, so we don't throw away the 2D information in an image. This spatial information or knowledege of where the pixels are connected 
+**Today's Progress** : Previously, I was using MLP to classifiy handwritten digits. But for complex image recognition problems, its better to use Convolutional Neural networks. In MLP, we always use fully connected layers, so in a 28 x 28 pixels of hand written image, we already used over half million of parameters, so imagine if we have more complex images then we will need million of parameters. Another problem is that, we throw away the 2D information in an image when we flatten the matrix into a vector. CNN's can address these problems. First, we only used sparsely connected layers. Also it accepts matrix as inputs, so we don't throw away the 2D information in an image. This spatial information or knowledege of where the pixels are connected 
 in reference to each other is relevant in understanding the image.
 
 ## Day 38 : March 10, 2019
@@ -293,6 +293,6 @@ in reference to each other is relevant in understanding the image.
 
 ## Day 39 : March 11, 2019
 
-**Today's Progress** :
+**Today's Progress** : I learned about high-pass filters, which is used to sharpen an image, and enhance high frequency part of an image. I also learned about convolution kernels,  which is just a matrix of numbers that modifies an image. Important note is that for edge detection, all elements must sum to 0 because this filter is computing the difference or change between its neighbor pixels. If these kernels did not add up to 0, it means it is postively or negatively weighted which will have the effect of brightening or darkening the entired filtered image.
 
 

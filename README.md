@@ -291,4 +291,8 @@ in reference to each other is relevant in understanding the image.
 
 **Today's Progress** :
 
+## Day 39 : March 11, 2019
+
+**Today's Progress** :
+
 

@@ -297,7 +297,7 @@ in reference to each other is relevant in understanding the image.
 
 ## Day 40: March 12, 2019
 
-**Today's Progress**: Today I learned about convolutional layers, where it can learned spatial information, and extract features and detect edges. It is produced by applying series of many convolutional kernels, in other words, it is just a stack of feature maps. Convolutional layers are locally connected as opposed to fully connected layers, and it has also weight sharing. The CNN structure is: Input image -> Convolutional Layer -> Pooling Layer -> Full connected layer -> Class prediction. I also learned about feature maps, which is just the output of the filtered image.
+**Today's Progress**: Today I learned about convolutional layers, where it can learned spatial information, and extract features and detect edges. It is produced by applying series of many convolutional kernels, in other words, it is just a stack of feature maps, which is just the output of the filtered image. Convolutional layers are locally connected as opposed to fully connected layers, and it has also weight sharing. The CNN structure is: Input image -> Convolutional Layer -> Pooling Layer -> Full connected layer -> Class prediction.
 
 ## Day 41: March 13, 2019
 

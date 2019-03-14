@@ -305,7 +305,13 @@ in reference to each other is relevant in understanding the image.
 Another layer in CNN is the Pooling layer, which take convolutional layer as input. The purpose of pooling layer is to reduce the dimensionality of convolutional layer. There are two types of pooling layers: Maxpooling and Average pooling. Max pooling is often used because its better at noticing the most important features and edges of an image. 
 A convolutional layer + activation function, followed by a pooling layer, and a linear layer (to create a desired output size) make up the basic layers of a CNN.
 
-nn.Conv2d(in_channels, out_channels, kernel_size, stride=1, padding=0)
+## Day 42: March 14, 2019
+
+**Today's Progress**: So, I finished the first part on Convolutional Neural Networks lessons. In the last notebook, I trained a CNN model to classify images on CIFAR-10 database. Next, I will learn more details about Transfer Learning.
+
+**Link of work**: [CNN on CIFAR-10 Database](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/Convolutional_neural_networks.ipynb)
+
+
 
 
 

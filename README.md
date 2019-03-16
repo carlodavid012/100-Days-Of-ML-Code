@@ -318,5 +318,16 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 **Link of work**: [Transfer Learning Guide](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/img/transferlearning.png)
 
 
+## Day 44: March 16, 2019
+
+**Today's Progress**: Today, I finished the transfer learning lessons. I used pretrained network which is VGG to classify flowers dataset. First, I loaded the pretrained model, then freeze the parameters so the network acts as a feature extractor. The VGG is trained on ImageNet database which contains 1000 classes so I removed the last layer and replaced it with a new layer to classify the flowers dataset. 
+
+**Link of work**: [Transfer Learning on Flowers Dataset](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/transfer_learning_flowers.ipynb)
+
+
+
+
+
+
 
 

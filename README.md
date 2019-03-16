@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="550" height="400" src="https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/100-days-of-code-challenge-accepted.jpg">
+  <img width="550" height="400" src="https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/100-days-of-code-challenge-accepted.jpg?token=Ab-JR2SPmA7cCsshDhhso-QKmTBJEI_Qks5cjHL1wA%3D%3D">
 </p>
 
 This repository contains my progress for the challenge 100DaysOfMLCode, It is a committment to better my understanding of this powerful tool by dedicating at least 1 hour of my time everyday to studying and/or coding machine learning and deep learning for 100 days.
@@ -202,20 +202,20 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 **Today's Progress** : Back at it again! Today, I review some concepts of neural networks and study some basics of pytorch and create a simple neural network using pytorch from scratch.
 
-**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/intro_to_neural_nets.ipynb)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/intro_to_neural_nets.ipynb)
 
 ## Day 25 : December 1, 2018
 
 **Today's Progress** : Today, I  build a neural network that can predict the digit in the image using the MNIST dataset. We can build one of these deep networks using only weight matrices as I did in the previous notebook, but in general it's very cumbersome and difficult to implement. PyTorch has a nice module nn that provides a nice way to efficiently build large neural networks.
 
-**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/neural_networks.ipynb)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/neural_networks.ipynb)
 
 ## Day 26 : December 2, 2018
 
 **Today's Progress** : I continued the notebook on classifying digits using MNIST dataset. So far, i've been using softmax activation function but in general any function can be used as activation function, but it must be non linear, here are some examples of activation function: sigmoid, Tanh(hyperbolic tangent) and ReLU (rectified linear unit). In practice, ReLU is usually used as activation function in hidden layers.
 
 
-**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/neural_networks.ipynb)
+**Link of work**: [Commit](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/neural_networks.ipynb)
 
 ## Day 27 : December 3, 2018
 
@@ -256,7 +256,7 @@ I already finished the first project, so I decided to review the previous lesson
 
 **Today's Progress** : Today I reviewed the lessons on transfer learning using PyTorch. Basically, transfer learning means using the learning of a previous model and reuse it on different task. I used a pretrained model called ResNet to classify dogs and cats images. 
 
-**Link of work**: [Transfer learning in pytorch](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/dogs_and_cats.ipynb)
+**Link of work**: [Transfer learning in pytorch](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/dogs_and_cats.ipynb)
 
 ## Day 32 : March 4, 2019
 
@@ -274,13 +274,13 @@ I already finished the first project, so I decided to review the previous lesson
 
 **Today's Progress** : Today, I finished the exercise on training an Multilayer perceptron(MLP) to classify images from MNIST handwritten digit database.
 
-**Link of work**: [Multilayer Perceptron MNIST](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/mlp_mnist.ipynb)
+**Link of work**: [Multilayer Perceptron MNIST](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/mlp_mnist.ipynb)
 
 ## Day 36 : March 8, 2019
 
 **Today's Progress** : I added a Validation set to the MLP Mnist code. We use validation set to check how our model generalizes during training, it also tells us when to stop training the model(when the validation loss stops decreasing, especially when the validation loss starts increasing and tra training loss is still decreasing).
 
-**Link of work**: [Multilayer Perceptron MNIST with Validation Set](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/mlp_mnist_with_validation%20.ipynb)
+**Link of work**: [Multilayer Perceptron MNIST with Validation Set](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/mlp_mnist_with_validation.ipynb)
 
 ## Day 37 : March 9, 2019
 
@@ -309,13 +309,13 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Today's Progress**: So, I finished the first part on Convolutional Neural Networks lessons. In the last notebook, I trained a CNN model to classify images on CIFAR-10 database. Next, I will learn more details about Transfer Learning.
 
-**Link of work**: [CNN on CIFAR-10 Database](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/Convolutional_neural_networks.ipynb)
+**Link of work**: [CNN on CIFAR-10 Database](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/Convolutional_neural_networks.ipynb)
 
 ## Day 43: March 15, 2019
 
 **Today's Progress**: To review, Transfer Learning is using a pre-trained Network to a new different dataset, instead of training a CNN from scratch, we use the knowledge of a pretrained Network to classify the image in the dataset. There are different strategies in using Transfer Learning. Say for example we use the VGG Network. In the first filters in the convolutional layers it can classify general features like edges and shapes, so we only need to remove the last layer that is specific and replace it with our new fully connected layer. This technique only works if our dataset is small and similar to ImageNet database, if we have bigger dataset and differet from Imagenet, we might need different approach. Here is the guide on how to use Transfer Learning.
 
-**Link of work**: [Transfer Learning Guide](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/transferlearning.png)
+**Link of work**: [Transfer Learning Guide](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/img/transferlearning.png)
 
 
 

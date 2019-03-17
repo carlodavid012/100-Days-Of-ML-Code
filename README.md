@@ -326,7 +326,7 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 ## Day 45: March 17, 2019
 
-**Today's Progress**
+**Today's Progress**: Today I started the second project on the nanodegree which is the Dog Breed Classifier. I finished the first step which is to detect how much percentage humans or dogs are there in the dataset using pretrained face detectors in OpenCV.
 
 ## Day 46: March 18, 2019
 

@@ -324,6 +324,14 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Link of work**: [Transfer Learning on Flowers Dataset](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/notebooks/transfer_learning_flowers.ipynb)
 
+## Day 45: March 17, 2019
+
+**Today's Progress**
+
+## Day 46: March 18, 2019
+
+**Today's Progress**:
+
 
 
 

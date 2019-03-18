@@ -332,6 +332,10 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Today's Progress**:
 
+## Day 47: March 19, 2019
+
+**Today's Progress**:
+
 
 
 

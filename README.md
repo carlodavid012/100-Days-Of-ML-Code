@@ -330,7 +330,7 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 ## Day 46: March 18, 2019
 
-**Today's Progress**:
+**Today's Progress**: Today, I worked on the step two of the project which is to used pretrained model to predict a single image. I still got errors and I'll try to fix it tomorrow.
 
 ## Day 47: March 19, 2019
 

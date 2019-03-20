@@ -334,6 +334,10 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 ## Day 47: March 19, 2019
 
+**Today's Progress**: Today I finished making predictions to a single image with a pretrained model VGG. I was stuck at the mismatch size error but I was able to solve it by applying RandomResizeCrop to 224.
+
+## Day 48: March 20, 2019
+
 **Today's Progress**:
 
 

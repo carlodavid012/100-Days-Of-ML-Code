@@ -340,6 +340,9 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Today's Progress**: Next step in the project is to write a Dog detector. VGG was trained using ImageNet which contains 1000 classes, and some of the datasets include dogs and if you look the dataset, it is on index 151 and 268 inclusive. So, I used this model to detect if there is a dog in the image if the prediction index is between 151 and 268.
 
+## Day 49: March 21, 2019
+
+**Today's Progress**
 
 
 

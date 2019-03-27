@@ -342,7 +342,7 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 ## Day 49: March 21, 2019
 
-**Today's Progress** I haven't done the course today because I attended the Tensorflow Dev Summit Extended Manila. The topics discussed was about what's new in TF 2.0,  model interpretability, google colab and some 5-minute talks about RNN, and image classification for health and traffic.
+**Today's Progress** I haven't done the course today because I attended the Tensorflow Dev Summit Extended Manila. The topics discussed was about what's new in TF 2.0,  model interpretability, google colab and some 5-minute talks about RNN for Filipino languages, and image classification for radiology and object detection for cars at night.
 
 ## Day 50: March 22, 2019
 

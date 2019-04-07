@@ -409,7 +409,24 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Today's Progress**
 
+Today I learned about Recurrent Neural networks which is we incorporate memory into neural networks and is useful for understanding sequential data. 
 
+RNN are neural networks that can capture temporal dependencies, which are dependecies over time. Its called recurrent because we perform the same task for each input in the sequence. 
+
+RNN has a key flaw which the vanishing gradient problem, in which the contribution of information decays over time. In training our network we use backpropagation, In backpropagation we adjust our weight matrices using the gradient, In the process, the gradients are calculated by performing multiplication of derivatives, The value of these derivatives is so small, the continuous multiplication may cause the gradients to vanish. 
+
+LSTM is the technique to overcome the vanishing gradient in RNN. 
+
+There are different applications of RNN and LSTM, for example, speech recognition, like Amazon Alexa, time series prediction to identify traffic patterns, movie selection, predicting stock price movement based on historical patterns of stock movements. Its also use for natural language processing like language translation, question answering like Google Analytics, , chatbots, gesture  recognition and many more.
+
+You can combine CNN and RNN. For example, one can use cnn in the first layers for the purpose of feature extraction. and then use RNN for the final layers where memory needs to be considered, a popular application of this is gesture recognition. 
+
+There are two main applications of feed forward neural networks. First is the classification, for example image classification. Then the second is Regression, for example predicting stock prices over the five days. 
+
+The task of neural networks is the find the best set of weights.
+
+When working with neural nets, we have two phases. Training and Evaluation. 
+During the training phase, we take the data set (also called the training set), which includes many pairs of inputs and their corresponding targets (outputs). Our goal is to find a set of weights that would best map the inputs to the desired outputs. In the evaluation phase, we use the network that was created in the training phase, apply our new inputs and expect to obtain the desired outputs.
 
 
 

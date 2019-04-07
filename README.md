@@ -428,6 +428,10 @@ The task of neural networks is the find the best set of weights.
 When working with neural nets, we have two phases. Training and Evaluation. 
 During the training phase, we take the data set (also called the training set), which includes many pairs of inputs and their corresponding targets (outputs). Our goal is to find a set of weights that would best map the inputs to the desired outputs. In the evaluation phase, we use the network that was created in the training phase, apply our new inputs and expect to obtain the desired outputs.
 
+Activation functions allows the network to represent non-linear relationships
+
+ Mean Squared Error (MSE) (usually used in regression problems) and the cross entropy (usually used in classification problems).
+
 
 
 

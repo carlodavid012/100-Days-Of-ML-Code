@@ -435,7 +435,12 @@ Activation functions allows the network to represent non-linear relationships
  ## Day 64: April 5, 2019
 
 **Today's Progress**
+There are two difference between feedforward network and recurrent neural networks, the first is the manner how we define our inputs and outputs, instead of training single input, single output, we train our network in sequences since previous sequence matter. The second difference stems from memory elements that RNN host. Current inputs as well as activation serves as input to the next time step. In feedforward network, we saw the information flow from the input to the output without any feedback. Now, the feedforward scheme changes and includes the feedback or memory elements. Memory is defined as the output of hidden layer neurons, which will serve as additional input to the network during next training step. . We also called the output of hidden layer as state, referring to a system with memory. 
 
+
+The basic scheme of RNN is called Simple RNN or also known as Elman network. 
+
+In FFNNs the hidden layer depended only on the current inputs and weights,In RNNs the state layer depended on the current inputs, their corresponding weights, the activation function and also on the previous state
 
 
 

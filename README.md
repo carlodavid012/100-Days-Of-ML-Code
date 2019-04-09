@@ -431,6 +431,10 @@ During the training phase, we take the data set (also called the training set), 
 Activation functions allows the network to represent non-linear relationships
 
  Mean Squared Error (MSE) (usually used in regression problems) and the cross entropy (usually used in classification problems).
+ 
+ ## Day 64: April 5, 2019
+
+**Today's Progress**
 
 
 

@@ -442,7 +442,9 @@ The basic scheme of RNN is called Simple RNN or also known as Elman network.
 
 In FFNNs the hidden layer depended only on the current inputs and weights,In RNNs the state layer depended on the current inputs, their corresponding weights, the activation function and also on the previous state
 
+ ## Day 65: April 10, 2019
 
+**Today's Progress**
 
 
 

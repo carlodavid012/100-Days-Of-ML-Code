@@ -449,6 +449,7 @@ In FFNNs the hidden layer depended only on the current inputs and weights,In RNN
 
 when we train RNN we also use backpropagation, but with a conceptual change. The process is similar to FFNN, with the exception that we need to consider previous timesteps, as the system has memory. This is called Backpropagation through time.  
  ## Day 64: April 12, 2019
+  ## Day 64: April 12, 2019
 
 
 

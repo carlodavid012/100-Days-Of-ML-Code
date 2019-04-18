@@ -452,6 +452,8 @@ when we train RNN we also use backpropagation, but with a conceptual change. The
   ## Day 64: April 12, 2019
 # cnn, dog breed classifier
 # dog breed classi
+# dog breed classi
+
 
 
 

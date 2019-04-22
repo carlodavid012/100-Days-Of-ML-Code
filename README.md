@@ -403,6 +403,9 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 ## Day 64: April 5, 2019
 
+
+Due to busy schedule, i havent done any progress the course. And the dog breed classifier requires a lot of time so I decided to proceed to watch some short vidoes RNN lessons everyday and I will just come back after I finished this lessons.
+
 **Today's Progress**
 
 ## Day 65: April 6, 2019

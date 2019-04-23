@@ -348,114 +348,80 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Today's Progress**: Today I just created transforms and data loaders for train, valid, and test datasets of dog images. I preprocess the data by aplying some resize and randomcrop transforsm in the dataset.
 
-## Day 51: March 23, 2019
+## Day 51: March 25, 2019
 
-**Today's Progress**
+**Today's Progress** I still got errors in the project. Due to busy schedule, i havent done any progress the course. And the dog breed classifier requires a lot of time so I decided to proceed to watch some short vidoes RNN lessons everyday and I will just come back after I finished this lessons.
 
-## Day 52: March 24, 2019
+## Day 52: March 26, 2019
 
-**Today's Progress**
+**Today's Progress** So today I learned about Recurrent Neural networks which is we incorporate memory into neural networks and is useful for understanding sequential data. RNN are neural networks that can capture temporal dependencies, which are dependecies over time. Its called recurrent because we perform the same task for each input in the sequence. 
 
-## Day 53: March 25, 2019
+## Day 53: March 27, 2019
 
-**Today's Progress**
+**Today's Progress** I continued the RNN lessons. RNN has a key flaw which is the vanishing gradient problem, in which the contribution of information decays over time. In training our network we use backpropagation, In backpropagation we adjust our weight matrices using the gradient, In the process, the gradients are calculated by performing multiplication of derivatives, The value of these derivatives is so small, the continuous multiplication may cause the gradients to vanish. LSTM is the technique to overcome the vanishing gradient in RNN.  
 
-## Day 54: March 26, 2019
+## Day 54: March 28, 2019
 
-**Today's Progress**
+**Today's Progress** There are different applications of RNN and LSTM, for example, speech recognition, like Amazon Alexa, time series prediction to identify traffic patterns, movie selection, predicting stock price movement based on historical patterns of stock movements. Its also use for natural language processing like language translation, question answering like Google Analytics, chatbots, gesture  recognition and many more.
 
-## Day 55: March 27, 2019
+## Day 55: March 29, 2019
 
-**Today's Progress**
-
-## Day 56: March 28, 2019
-
-**Today's Progress**
-
-## Day 57: March 29, 2019
-
-**Today's Progress**
+**Today's Progress** So today I learned that you can combine CNN and RNN. For example, one can use cnn in the first layers for the purpose of feature extraction. and then use RNN for the final layers where memory needs to be considered, a popular application of this is gesture recognition. 
 
 
-## Day 58: March 30, 2019
+## Day 56: March 30, 2019
 
-**Today's Progress**
-
-## Day 59: March 31, 2019
-
-**Today's Progress**
-
-## Day 60: April 1, 2019
-
-**Today's Progress**
-
-## Day 61: April 2, 2019
-
-**Today's Progress**
-
-## Day 62: April 3, 2019
-
-**Today's Progress**
-
-## Day 63: April 4, 2019
-
-**Today's Progress**
-
-## Day 64: April 5, 2019
-
-
-Due to busy schedule, i havent done any progress the course. And the dog breed classifier requires a lot of time so I decided to proceed to watch some short vidoes RNN lessons everyday and I will just come back after I finished this lessons.
-
-**Today's Progress**
-
-## Day 65: April 6, 2019
-
-**Today's Progress**
-
-Today I learned about Recurrent Neural networks which is we incorporate memory into neural networks and is useful for understanding sequential data. 
-
-RNN are neural networks that can capture temporal dependencies, which are dependecies over time. Its called recurrent because we perform the same task for each input in the sequence. 
-
-RNN has a key flaw which the vanishing gradient problem, in which the contribution of information decays over time. In training our network we use backpropagation, In backpropagation we adjust our weight matrices using the gradient, In the process, the gradients are calculated by performing multiplication of derivatives, The value of these derivatives is so small, the continuous multiplication may cause the gradients to vanish. 
-
-LSTM is the technique to overcome the vanishing gradient in RNN. 
-
-There are different applications of RNN and LSTM, for example, speech recognition, like Amazon Alexa, time series prediction to identify traffic patterns, movie selection, predicting stock price movement based on historical patterns of stock movements. Its also use for natural language processing like language translation, question answering like Google Analytics, , chatbots, gesture  recognition and many more.
-
-You can combine CNN and RNN. For example, one can use cnn in the first layers for the purpose of feature extraction. and then use RNN for the final layers where memory needs to be considered, a popular application of this is gesture recognition. 
-
+**Today's Progress** In order to understand RNN's better, I need to review feedforward and backpropagation concepts. 
 There are two main applications of feed forward neural networks. First is the classification, for example image classification. Then the second is Regression, for example predicting stock prices over the five days. 
-
 The task of neural networks is the find the best set of weights.
 
-When working with neural nets, we have two phases. Training and Evaluation. 
+## Day 57: March 31, 2019
+
+**Today's Progress** When working with neural nets, we have two phases. Training and Evaluation. 
 During the training phase, we take the data set (also called the training set), which includes many pairs of inputs and their corresponding targets (outputs). Our goal is to find a set of weights that would best map the inputs to the desired outputs. In the evaluation phase, we use the network that was created in the training phase, apply our new inputs and expect to obtain the desired outputs.
 
-Activation functions allows the network to represent non-linear relationships
+## Day 58: April 3, 2019
 
- Mean Squared Error (MSE) (usually used in regression problems) and the cross entropy (usually used in classification problems).
+**Today's Progress** Activation functions allows the network to represent non-linear relationships. The most common loss functions are: Mean Squared Error (MSE) (usually used in regression problems) and the cross entropy (usually used in classification problems).
+
+## Day 59: April 4, 2019
+
+**Today's Progress** There are two difference between feedforward network and recurrent neural networks, the first is the manner how we define our inputs and outputs, instead of training single input, single output, we train our network in sequences since previous sequence matter. The second difference stems from memory elements that RNN host. Current inputs as well as activation serves as input to the next time step.
+
+## Day 60: April 5, 2019
+
+**Today's Progress** In feedforward network, we saw the information flow from the input to the output without any feedback. Now, the feedforward scheme changes and includes the feedback or memory elements. Memory is defined as the output of hidden layer neurons, which will serve as additional input to the network during next training step. We also called the output of hidden layer as state, referring to a system with memory. 
+
+## Day 61: April 6, 2019
+
+**Today's Progress** The basic scheme of RNN is called Simple RNN or also known as Elman network. 
+In FFNNs the hidden layer depended only on the current inputs and weights,In RNNs the state layer depended on the current inputs, their corresponding weights, the activation function and also on the previous state. 
+
+## Day 62: April 7, 2019
+
+**Today's Progress** when we train RNN we also use backpropagation, but with a conceptual change. The process is similar to FFNN, with the exception that we need to consider previous timesteps, as the system has memory. This is called Backpropagation through time.  
+
+## Day 63: April 8, 2019
+
+**Today's Progress**
+
+## Day 64: April 9, 2019
+
+**Today's Progress**
+
+## Day 65: April 10, 2019
+
+**Today's Progress**
  
- ## Day 64: April 5, 2019
+ ## Day 66: April 11, 2019
 
 **Today's Progress**
-There are two difference between feedforward network and recurrent neural networks, the first is the manner how we define our inputs and outputs, instead of training single input, single output, we train our network in sequences since previous sequence matter. The second difference stems from memory elements that RNN host. Current inputs as well as activation serves as input to the next time step. In feedforward network, we saw the information flow from the input to the output without any feedback. Now, the feedforward scheme changes and includes the feedback or memory elements. Memory is defined as the output of hidden layer neurons, which will serve as additional input to the network during next training step. . We also called the output of hidden layer as state, referring to a system with memory. 
-
-
-The basic scheme of RNN is called Simple RNN or also known as Elman network. 
-
-In FFNNs the hidden layer depended only on the current inputs and weights,In RNNs the state layer depended on the current inputs, their corresponding weights, the activation function and also on the previous state
-
- ## Day 65: April 10, 2019
+ 
+ ## Day 67: April 12, 2019
 
 **Today's Progress**
 
 
-when we train RNN we also use backpropagation, but with a conceptual change. The process is similar to FFNN, with the exception that we need to consider previous timesteps, as the system has memory. This is called Backpropagation through time.  
- ## Day 64: April 12, 2019
-  ## Day 64: April 12, 2019
-# cnn, dog breed classifier
-# dog breed classi
-# dog breed classi
 
 
 

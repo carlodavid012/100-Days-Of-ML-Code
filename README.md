@@ -401,25 +401,10 @@ In FFNNs the hidden layer depended only on the current inputs and weights,In RNN
 
 **Today's Progress** when we train RNN we also use backpropagation, but with a conceptual change. The process is similar to FFNN, with the exception that we need to consider previous timesteps, as the system has memory. This is called Backpropagation through time.  
 
-## Day 63: April 8, 2019
+## Day 63: April 24, 2019
 
-**Today's Progress**
+**Today's Progress** I've been busy again, but I will try to finish this challenge. So I decided to continue where I left on my Dog Breed Classifier project, which is to train CNN from scratch. I also added BatchNorm2d on each convolutional layer because I read that it can improve result and been reported to improve accuracy. I'm still training the model on 100 epochs on google colab and its pretty slow.
 
-## Day 64: April 9, 2019
-
-**Today's Progress**
-
-## Day 65: April 10, 2019
-
-**Today's Progress**
- 
- ## Day 66: April 11, 2019
-
-**Today's Progress**
- 
- ## Day 67: April 12, 2019
-
-**Today's Progress**
 
 
 

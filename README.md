@@ -406,7 +406,15 @@ In FFNNs the hidden layer depended only on the current inputs and weights,In RNN
 **Today's Progress** I've been busy again, but I will try to finish this challenge. So I decided to continue where I left on my Dog Breed Classifier project, which is to train CNN from scratch. I also added BatchNorm2d on each convolutional layer because I read that it can improve result and been reported to improve accuracy. I'm still training the model on 100 epochs on google colab and its pretty slow.
 
 
+## Day 63: April 26, 2019
 
+**Today's Progress** So today, I only trained the cnn for 10 epochs and got 8% accuracy (thats very low). So I decided to use pretrained model which is ResNet with 152 layers. I replaced only the last layer and freeze all the gradients since it was trained on ImageNet database which has some Dog dataset in it, so it is somehow similar to my dataset. The accuracy is still low so I decided to research on how to choose the best architecture and hyperparametrs to improve the accuracy.
+
+**Resources**: 
+1.[Tradeoff batch size vs. number of iterations to train a neural network](https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network)
+
+2.[The Effectiveness of Data Augmentation in Image Classification using Deep
+Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 
 

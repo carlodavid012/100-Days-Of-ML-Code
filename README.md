@@ -416,6 +416,10 @@ In FFNNs the hidden layer depended only on the current inputs and weights,In RNN
 2.[The Effectiveness of Data Augmentation in Image Classification using Deep
 Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
+## Day 64: April 30, 2019
+**Today's Progress** I was busy this week and I didnt make progress in my nanodegree, but I came across this article by Andrej Karpathy which is a recipe for training Neural Networks. It shows the most common neural net mistakes and guides for training neural networks. 
+
+**Link** [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 
 

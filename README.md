@@ -421,8 +421,11 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 **Link** [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
-
 ## Day 65: May 6, 2019
+
+**Today's Progress**  Today I trained my dog breed classifier from scratch for 50 epochs and learning rate with 0.001 and got 13% accuracy, then I try to use different pretrained model VGG16 and replace the last layer, then trained on 20 epochs and got an accuracy of 83% which is enough to pass the project. Next, I will finish the remaining tasks in the notebook and submit it for review.
+
+## Day 66: May 7, 2019
 
 **Today's Progress**  Today I learned more about Backpropagation through time which is used for recurrent neural networks. If we backpropagate on more than 10 timesteps, the gradients can be very small and this problem is called the vanishing gradient. We can solve this issue using LSTM. Another issue we can face on RNN is the exploding gradient problem which is the gradients can be very big. We can solve this by using Gradient clipping.
 

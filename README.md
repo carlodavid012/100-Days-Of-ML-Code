@@ -315,7 +315,7 @@ A convolutional layer + activation function, followed by a pooling layer, and a 
 
 **Today's Progress**: To review, Transfer Learning is using a pre-trained Network to a new different dataset, instead of training a CNN from scratch, we use the knowledge of a pretrained Network to classify the image in the dataset. There are different strategies in using Transfer Learning. Say for example we use the VGG Network. In the first filters in the convolutional layers it can classify general features like edges and shapes, so we only need to remove the last layer that is specific and replace it with our new fully connected layer. This technique only works if our dataset is small and similar to ImageNet database, if we have bigger dataset and differet from Imagenet, we might need different approach. Here is the guide on how to use Transfer Learning.
 
-**Link of work**: [Transfer Learning Guide](https://github.com/carlodavid012/100-Days-Of-ML-Code/blob/master/img/transferlearning.png)
+![transfer learning](https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/transferlearning.png?token=AG7YSR7GQSGY3UBAFORBZIK42I57G)
 
 
 ## Day 44: March 16, 2019

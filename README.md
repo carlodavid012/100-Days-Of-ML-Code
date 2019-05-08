@@ -429,6 +429,11 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 **Today's Progress**  Today I learned more about Backpropagation through time which is used for recurrent neural networks. If we backpropagate on more than 10 timesteps, the gradients can be very small and this problem is called the vanishing gradient. We can solve this issue using LSTM. Another issue we can face on RNN is the exploding gradient problem which is the gradients can be very big. We can solve this by using Gradient clipping.
 
+## Day 67: May 8, 2019
+
+**Today's Progress**  Today I read more a blog post about RNNs and LSTM. I learned more about the intuition of RNNs and know why we use LSTM.
+
+**Link**: [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
 
 
 

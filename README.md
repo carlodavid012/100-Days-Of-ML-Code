@@ -435,5 +435,16 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 **Link**: [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
 
+## Day 68: May 9, 2019
 
+**Today's Progress**  Today I learned about high level overview on how LSTM works. The architecture of LSTM contains four gates which are: Forget Gate, Learn Gate, Remember Gate and Use Gate.
 
+Here's how it works, the long term memory goes to the forget gate and forgets everything that it doesnt consider useful. 
+
+The short term memory and event are joined together in the learn gate containing the information we recently learn and it removes unnecessary information.
+
+Then the long term memory we haven't forgotten yet plus the new information we've learned get joined together in the remember gate, it combines the two gates and output an updated long term memory.
+
+And the Use gate is the one that decides what information we use from what we previously know plus what we just learned to make a prediction, so it also takes those inputs as long term memory and the new information, joins them and decide what to output. The output becomes the prediction and the short term memory. 
+
+![alt text](https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/lstm.png?token=AG7YSR5NB6N6R5AA752SMQS42I534)

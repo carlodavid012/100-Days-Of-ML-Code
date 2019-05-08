@@ -299,6 +299,8 @@ in reference to each other is relevant in understanding the image.
 
 **Today's Progress**: Today I learned about convolutional layers, where it can learned spatial information, and extract features and detect edges. It is produced by applying series of many convolutional kernels, in other words, it is just a stack of feature maps, which is just the output of the filtered image. Convolutional layers are locally connected as opposed to fully connected layers, and it has also weight sharing. The CNN structure is: Input image -> Convolutional Layer -> Pooling Layer -> Full connected layer -> Class prediction.
 
+![cnn](https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/cnn.png?token=AG7YSR2KVUU3TZ225RPIAHC42I6PK)
+
 ## Day 41: March 13, 2019
 
 **Today's Progress**:Today I learned about stride, which is just the amount or step size by which the filter slides over the image, and padding which means adding zeros to give the filter more space to move across the image.

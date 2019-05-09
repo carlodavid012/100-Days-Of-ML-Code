@@ -450,3 +450,6 @@ Then the long term memory we haven't forgotten yet plus the new information we'v
 And the Use gate is the one that decides what information we use from what we previously know plus what we just learned to make a prediction, so it also takes those inputs as long term memory and the new information, joins them and decide what to output. The output becomes the prediction and the short term memory. 
 
 ![alt text](https://raw.githubusercontent.com/carlodavid012/100-Days-Of-ML-Code/master/img/lstm.png?token=AG7YSR5NB6N6R5AA752SMQS42I534)
+
+
+## Day 69: May 10, 2019

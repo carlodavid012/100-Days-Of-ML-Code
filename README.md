@@ -453,3 +453,7 @@ And the Use gate is the one that decides what information we use from what we pr
 
 
 ## Day 69: May 10, 2019
+
+**Today's Progress**  Today I just read Chris Olah's blog post on understanding rnn and lstm. 
+
+**Link**: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

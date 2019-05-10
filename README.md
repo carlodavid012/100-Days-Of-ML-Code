@@ -433,7 +433,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 ## Day 67: May 8, 2019
 
-**Today's Progress**  Today I read more a blog post about RNNs and LSTM. I learned more about the intuition of RNNs and know why we use LSTM. One way to think about RNNs is they are a way to share weights over time.
+**Today's Progress**  Today I read a blog post about RNNs and LSTM. I learned more about the intuition of RNNs and know why we use LSTM. One way to think about RNNs is they are a way to share weights over time.
 
 **Link**: [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
 

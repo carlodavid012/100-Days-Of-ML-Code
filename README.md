@@ -457,3 +457,7 @@ And the Use gate is the one that decides what information we use from what we pr
 **Today's Progress**  Today I just read Chris Olah's blog post to learn more the theory behind rnn and lstm. 
 
 **Link**: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+## Day 70: May 16, 2019
+
+**Today's Progress** Today I finish the charRNN notebook where I created an LSTM to predict the next character in the sequence. I learn about sequence batching in training RNN, and also learn tips and tricks in obtaining the best model. One of it is to always make the network larger, as large as you're willing to wait to compute and then just apply dropout values. When the training loss is much lower than the validation loss, then it is overfitting, solution to this is to decrease the network size. When the training loss and validation are about equal, then it is underfitting, you need to increase the network size. 

@@ -460,7 +460,12 @@ And the Use gate is the one that decides what information we use from what we pr
 
 ## Day 70: May 16, 2019
 
-**Today's Progress** Today I finish the charRNN notebook where I created an LSTM to train character by character on some text, then generate new text character by character. I learned about sequence batching in training RNN, and also learn tips and tricks in obtaining the best model. One of it is to always make the network larger, as large as you're willing to wait to compute and then just apply dropout values. When the training loss is much lower than the validation loss, then it is overfitting, solution to this is to decrease the network size. When the training loss and validation are about equal, then it is underfitting, you need to increase the network size. 
+**Today's Progress** Today I finished the charRNN notebook where I created an LSTM to train character by character on some text, then generate new text character by character. I learned about sequence batching in training RNN, and also learn tips and tricks in obtaining the best model. One of it is to always make the network larger, as large as you're willing to wait to compute and then just apply dropout values. When the training loss is much lower than the validation loss, then it is overfitting, solution to this is to decrease the network size. When the training loss and validation are about equal, then it is underfitting, you need to increase the network size. 
 
 # hyperparameters
 # word2vec
+
+## Day : May , 2019
+
+**Today's Progress** Today I learned about word embedding which is a term for the model that can learn to map a set of words or phrases in a vocabulary to vectors of numerical values. In general, this technique is use to reduce the dimensionality of data but it can also learn interesting traits about words in a vocabulary. One of the popular example of word embedding is the word2vec. It can learn to map words into embeddings that contains semantic meaning, for example embeddings can learn the relationship between verbs in the present and past tense.
+

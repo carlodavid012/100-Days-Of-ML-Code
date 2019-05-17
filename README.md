@@ -465,7 +465,14 @@ And the Use gate is the one that decides what information we use from what we pr
 # hyperparameters
 # word2vec
 
-## Day : May , 2019
+## Day 71: May 17, 2019
 
 **Today's Progress** Today I learned about word embedding which is a term for the model that can learn to map a set of words or phrases in a vocabulary to vectors of numerical values. In general, this technique is use to reduce the dimensionality of data but it can also learn interesting traits about words in a vocabulary. One of the popular example of word embedding is the word2vec. It can learn to map words into embeddings that contains semantic meaning, for example embeddings can learn the relationship between verbs in the present and past tense.
+
+
+**Today's Progress** Today i learned more about choosing hyperparameters. There is no magic number that will work everytime, it depends on the task and number of dataset. The learning rate is the most important hyperparameter. Good starting point is usually 0.01. One technique we use is learning rate decay, where we decrease the learning rate throughout the training process. There are also algorthims that have apadtive learning rate. 
+
+Another hyperparameter is the mini batch size, good choices are 32, 64, 128 and 256, depends on the data and task. In choosing the number of hidden layers, Andrej karpathy said that in practice, three layer net will always outperform two layer net but if we go deeper, it rarely helps much more, except on CNN because the deeper the network, the better it will perform. 
+Two choices we need to make when creating RNN is to choose the cell type(LSTM, vanilla RNN or GRU), and how many layers we will stack. 
+
 

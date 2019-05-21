@@ -473,7 +473,7 @@ Two choices we need to make when creating RNN is to choose the cell type(LSTM, v
 
 ## Day 73: May 22, 2019
 
-**Today's Progress** Today I read a blog post about word2vec and skip gram model. In simple words, word2vec just convert word into vectors that can learn context of the word. There are two architectures for implementing word2vec: 1. CBOW(continous bag of words) and skip gram. In cbow, we give the model the context words and it tries to predict the word while in skip gram, we give the model the word it will predict the context. I've also read that skip gram performs better than cbow. 
+**Today's Progress** Today I read a blog post about word2vec and skip gram model. In simple words, word2vec just convert word into vectors that can learn context of the word. In word2vec, we will train a neural network with one hidden layer, and we will not use this network to perform a certain task, we just want to learn the weights of the hidden layer. There are two architectures for implementing word2vec: 1. CBOW(continous bag of words) and skip gram. In cbow, we give the model the context words and it tries to predict the word while in skip gram, we give the model the word it will predict the context. I've also read that skip gram performs better than cbow. 
 
 **Link:** http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 

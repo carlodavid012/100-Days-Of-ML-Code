@@ -467,15 +467,20 @@ And the Use gate is the one that decides what information we use from what we pr
 **Today's Progress** Today i learned more about choosing hyperparameters. There is no magic number that will work everytime, it depends on the task and number of dataset. The learning rate is the most important hyperparameter. Good starting point is usually 0.01. One technique we use is learning rate decay, where we decrease the learning rate throughout the training process. There are also algorthims that have apadtive learning rate. Another hyperparameter is the mini batch size, good choices are 32, 64, 128 and 256, depends on the data and task. In choosing the number of hidden layers, Andrej karpathy said that in practice, three layer net will always outperform two layer net but if we go deeper, it rarely helps much more, except on CNN because the deeper the network, the better it will perform. 
 Two choices we need to make when creating RNN is to choose the cell type(LSTM, vanilla RNN or GRU), and how many layers we will stack. 
 
-## Day 72: May 21, 2019
+## Day 72: May 20, 2019
 
 **Today's Progress** Today I learned about word embedding which is a term for the model that can learn to map a set of words or phrases in a vocabulary to vectors of numerical values. In general, this technique is use to reduce the dimensionality of data but it can also learn interesting traits about words in a vocabulary. One of the popular example of word embedding is the word2vec. It can learn to map words into embeddings that contains semantic meaning, for example embeddings can learn the relationship between verbs in the present and past tense.
 
-## Day 73: May 22, 2019
+## Day 73: May 21, 2019
 
 **Today's Progress** Today I read a blog post about word2vec and skip gram model. In simple words, word2vec just convert word into vectors that can learn context of the word. In word2vec, we will train a neural network with one hidden layer, and we will not use this network to perform a certain task, we just want to learn the weights of the hidden layer. There are two architectures for implementing word2vec: 1. CBOW(continous bag of words) and skip gram. In cbow, we give the model the context words and it tries to predict the word while in skip gram, we give the model the word it will predict the context. I've also read that skip gram performs better than cbow. 
 
-**Link:** http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+**Link:** [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
+## Day 74: May 22, 2019
 
+**Today's Progress** I read the part 2 of the article, here are the notes that I learned. Running gradient descent on a neural network that large is going to be slow. The authors of word2vec addressed these issue in their second paper with two improvements: subsampling and negative sampling. Words that show up often such as "the", "of", and "for" don't provide much context to the nearby words. If we discard some of them, we can remove some of the noise from our data and in return get faster training and better representations. This process is called subsampling. Negative sampling causes each training sample to update only a small percentage of the model’s weights.
+It’s worth noting that subsampling frequent words and applying Negative Sampling not only reduced the compute burden of the training process, but also improved the quality of their resulting word vectors as well.
+
+**Link:** [Word2Vec Tutorial Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 

@@ -484,3 +484,8 @@ It’s worth noting that subsampling frequent words and applying Negative Sampli
 
 **Link:** [Word2Vec Tutorial Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 
+## Day 75: May 23, 2019
+
+**Today's Progress** Today I started the lesson on recurrent neural network that can perform sentiment analysis. The architecture of the network is, first we will pass the word into embedding layer to reduce dimensionality. Then the new embeddings will be pass to lstm cells, to add memory to our network. Lastly, pass it into sigmoid to obtain probability between 0 and 1 since we want to predict sentiment on either positive or negative(1 or o).
+
+

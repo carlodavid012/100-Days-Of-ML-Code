@@ -236,17 +236,7 @@ So, I decided to continue writing my progress on learning ML and DL. Luckily, I'
 
 ## Day 30 : March 2, 2019
 
-**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) last January 18, so I decided to continue write my progress on learning DL. There will be five projects that I will build in this course:
-
-~~● Predicting Bike-Sharing Patterns~~
-
-● Dog Breed Classifier
-
-● Generate TV Scripts
-
-● Generate Faces
-
-● Deploy a Sentiment Analysis Model
+**Today's Progress** : It's been a long time since my last update,I should have finished it by now :( I've been awarded a scholarship for the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) last January 18, so I decided to continue write my progress on learning DL. 
 
 I already finished the first project, so I decided to review the previous lessons. Today, I reviewed on saving and loading models in pytorch, how to load images for training using ImageFolder, and how to peform data augmentation to introduce randomness in input data using transforms.
 
@@ -487,5 +477,6 @@ It’s worth noting that subsampling frequent words and applying Negative Sampli
 ## Day 75: May 23, 2019
 
 **Today's Progress** Today I started the lesson on recurrent neural network that can perform sentiment analysis. The architecture of the network is, first we will pass the word into embedding layer to reduce dimensionality. Then the new embeddings will be pass to lstm cells, to add memory to our network. Lastly, pass it into sigmoid to obtain probability between 0 and 1 since we want to predict sentiment on either positive or negative(1 or o).
+
 
 
